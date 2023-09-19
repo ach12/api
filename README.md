@@ -13,3 +13,5 @@ The user inputs the desired cadence and direction of the step motor using the st
 
 Pollen in the syringe is pushed into a flow chamber where photos are taken.
 Pieces to hold the syringe and limit switches in place were modelled in Fusion360 and printed. 
+
+![alt text](https://github.com/ach12/upi/blob/main/model_3D_pieces.jpg?raw=true)
